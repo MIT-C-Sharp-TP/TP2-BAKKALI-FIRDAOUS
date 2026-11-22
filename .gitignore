@@ -74,3 +74,5 @@ $RECYCLE.BIN/
 
 # Unity test results
 TestResults/
+
+.fake
